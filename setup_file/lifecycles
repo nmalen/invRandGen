@@ -1,0 +1,46 @@
+{
+    "Lifecycles": [
+        { 
+            "State": "Submitted",
+            "DelayInSeconds": 3
+        },
+        { 
+            "State": "IssuedByPlatform",
+            "DelayInSeconds": 3
+        },
+        { 
+            "State": "ReceivedByPlatform",
+            "DelayInSeconds": 3
+        },
+        { 
+            "State": "MadeAvailable",
+            "DelayInSeconds": 3
+        },
+        { 
+            "State": "InHand",
+            "DelayInSeconds": 30
+        },
+        { 
+            "State": "Suspended",
+            "DelayInSeconds": 10,
+            "WaitForAction": "Complete"
+        },
+        { 
+            "State": "InHand",
+            "DelayInSeconds": 3
+        },
+        { 
+            "State": "Approved",
+            "DelayInSeconds": 30
+        },
+        { 
+            "State": "PaymentSent",
+            "DelayInSeconds": 30,
+            "WaitForAction": "ConfirmPayment"
+        },
+        { 
+            "State": "PaymentReceived",
+            "DelayInSeconds": 3
+        }
+    ]
+}
