@@ -1,0 +1,43 @@
+{
+    "adjectives": [
+        "Global", "Dynamic", "Innovative", "Creative", "Efficient", "Strategic", "Advanced", "Leading", "NextGen", 
+        "Prime", "Smart", "Agile", "Proactive", "Zeus", "Hercules", "Athena", "Apollo", "Hermes", "Artemis", "Ares", 
+        "Hades", "Poseidon", "Demeter", "Hestia", "Hera", "Persephone", "Dionysus", "Hephaestus", "Aphrodite", "Hermes", 
+        "Athena", "Hera", "Artemis", "Apollo", "Hades", "Poseidon", "Demeter", "Hestia", "Persephone", "Dionysus", "Hephaestus", 
+        "Aphrodite", "Hermes", "Athena", "Hera", "Artemis", "Apollo", "Hades", "Poseidon", "Demeter", "Hestia", "Persephone", 
+        "Dionysus", "Hephaestus", "Aphrodite", "Hermes", "Athena", "Hera", "Artemis", "Apollo", "Hades", "Poseidon", "Demeter", 
+        "Hestia", "Persephone", "Dionysus", "Hephaestus", "Aphrodite", "Hermes", "Athena", "Hera", "Artemis", "Apollo", "Hades", 
+        "Poseidon", "Demeter", "Hestia", "Persephone", "Dionysus", "Hephaestus", "Aphrodite", "Hermes", "Athena", "Hera", 
+        "Artemis", "Apollo", "Hades", "Poseidon", "Demeter", "Hestia", "Persephone", "Dionysus", "Hephaestus", "Aphrodite", 
+        "Hermes", "Athena", "Hera", "Artemis", "Apollo", "Hades", "Poseidon", "Demeter", "Hestia", "Persephone", "Dionys"
+    ],
+    "nouns": [
+        "Solutions", "Technologies", "Systems", "Concepts", "Networks", "Industries", "Enterprises", "Holdings", "Services", "Ventures"
+    ],
+    "first_names": [
+        "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"
+    ],
+    "last_names": [
+        "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
+        "Hernandez", "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Taylor", "Moore", "Jackson", "Martin"
+    ],
+    "street_type": [
+        "RUE", "AVENUE", "BOULEVARD", "IMPASSE"
+    ],
+    "street_name": [
+        "DE LA PAIX", "DES CHAMPS-ELYSEES", "SAINT-GERMAIN", "DES ACACIAS", 
+        "DE RIVOLI", "MONTAIGNE", "HAUSSMANN", "DES LILAS", 
+        "SAINT-HONORE", "FOCH", "VOLTAIRE", "DES ROSES", 
+        "DE LA REPUBLIQUE", "DE L'OPERA", "DE SEBASTOPOL", "DES MIMOSAS", 
+        "DU FAUBOURG SAINT-HONORE", "VICTOR HUGO", "RASPAIL", "DES ORCHIDEES", 
+        "DE LA GAITE", "KLEBER", "SAINT-MICHEL", "DES PINS", 
+        "DE LA FONTAINE", "HOCHE", "DES ITALIENS", "DES MAGNOLIAS", 
+        "DE LA SANTE", "DE LA GRANDE ARMEE"
+    ],
+    "city_name": [
+        "PARIS", "MARSEILLE", "LYON", "TOULOUSE", "NICE", "NANTES", "STRASBOURG", "MONTPELLIER", "BORDEAUX", "LILLE",
+        "RENNES", "REIMS", "LE HAVRE", "SAINT-ETIENNE", "TOULON", "GRENOBLE", "DIJON", "ANGERS", "NIMES", "VILLEURBANNE",
+        "CLERMONT-FERRAND", "LE MANS", "AIX-EN-PROVENCE", "BREST", "TOURS", "AMIENS", "LIMOGES", "ANNECY", "PERPIGNAN", "BOULOGNE-BILLANCOURT"
+    ],
+    "country_id": "FR"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Quadient test",
+    "legal_organization_id": "57151520",
+    "postal_address": {
+        "postcode": "92500",
+        "line_one": "7 RUE HENRI BECQUEREL",
+        "city": "RUEIL MALMAISON",
+        "country_id": "FR"
+    },
+    "tax_registration_id": {
+        "scheme_id": "VA",
+        "id": "FRNMSUPPLIERIMP"
+    }
+}

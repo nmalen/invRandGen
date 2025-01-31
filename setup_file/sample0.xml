@@ -588,7 +588,7 @@
                     <ram:CountryID>FR</ram:CountryID>
                 </ram:PostalTradeAddress>
                 <ram:SpecifiedTaxRegistration>
-                    <ram:ID schemeID="VA">FRJSSUPPLIERIMP</ram:ID>
+                    <ram:ID schemeID="VA">FRNMSUPPLIERIMP</ram:ID>
                 </ram:SpecifiedTaxRegistration>
             </ram:SellerTradeParty>
             <ram:BuyerTradeParty>
